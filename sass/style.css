@@ -903,6 +903,7 @@ body {
   }
   .about__content {
     margin-left: -9rem;
+    margin-top: -10rem;
   }
   .about__content .image-about {
     display: none;
