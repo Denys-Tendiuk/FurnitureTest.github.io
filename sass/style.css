@@ -1,4 +1,8 @@
 @charset "UTF-8";
+body {
+  overflow-x: hidden;
+}
+
 #menu__toggle {
   display: none;
 }
