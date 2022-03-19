@@ -949,6 +949,10 @@
   .advances__container .main-header:before {
     width: 5px;
   }
+  .advances__container .slider-advances .slide-block img {
+    border-radius: 5%;
+    width: 300px;
+  }
   .advances__container .slider-advances .slide-block h2 {
     font-size: 25px;
     text-align: center;
